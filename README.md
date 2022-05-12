@@ -8,6 +8,10 @@ Es una aplicación open-source sobre un Sistema de gestión de inventario para m
 
 Link : [App](https://pet-inventory.azurewebsites.net/)
 
+## Arquitectura de la aplicacion 
+
+   <imag src="https://github.com/ManuelCoronel/Pet-Inventory/blob/main/Untitled%20Diagram-Copy%20of%20Django%20Architecture.drawio.png">
+    
 ## Requerimientos 📑
 
 Número | Descripción |
