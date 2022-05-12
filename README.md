@@ -6,7 +6,7 @@
 
 Es una aplicación open-source sobre un Sistema de gestión de inventario para mascotas.
 
-Link : [App : ](https://pet-inventory.azurewebsites.net/)
+Link : [App](https://pet-inventory.azurewebsites.net/)
 
 ## Requerimientos 📑
 
