@@ -10,7 +10,7 @@ Link : [App](https://pet-inventory.azurewebsites.net/)
 
 ## Arquitectura de la aplicacion 
 
-   <imag src="https://github.com/ManuelCoronel/Pet-Inventory/blob/main/Untitled%20Diagram-Copy%20of%20Django%20Architecture.drawio.png">
+   <img src="https://github.com/ManuelCoronel/Pet-Inventory/blob/main/Untitled%20Diagram-Copy%20of%20Django%20Architecture.drawio.png">
     
 ## Requerimientos 📑
 
